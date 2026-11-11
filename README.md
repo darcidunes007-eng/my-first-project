@@ -15,3 +15,9 @@ Build something awesome!
 
 This is my first GitHub branch experiment!
 
+## My Developer Journey
+
+I successfully cloned my first repository!
+
+I am learning Git and GitHub.## My Developer Journey
+
