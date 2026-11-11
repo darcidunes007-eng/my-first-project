@@ -1,2 +1,13 @@
-# my-first-project
-my first project on github
+# My First Project 🚀
+
+Hello GitHub!
+
+I am learning GitHub step by step.
+
+## About Me
+- AI and Data Science Student
+- Learning programming
+- Building amazing projects
+
+## My Goal
+Build something awesome!
